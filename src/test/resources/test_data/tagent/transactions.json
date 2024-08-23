@@ -1,0 +1,10 @@
+{
+  "filters": [
+    "All Time",
+    "This Month",
+    "Last Month",
+    "This Year",
+    "Last Year",
+    "Custom"
+  ]
+}
